@@ -1,6 +1,5 @@
 using System.Runtime.InteropServices;
 
-//string[] ourAnimals = new string[] { "101.dog.3 years.pastor brown color.dynamic, happy.nick: Rocket.","101.dog.3 years.pastor brown color.dynamic, happy.nick: Rocket.","101.dog.3 years.pastor brown color.dynamic, happy.nick: Rocket."};
 // the ourAnimals array will store the following: 
 string animalSpecies = "";
 string animalID = "";
